@@ -1,0 +1,25 @@
+https://www.bookswagon.com/images/icon9.png
+
+https://www.bookswagon.com/images/icon7.png
+
+
+
+
+
+https://www.bookswagon.com/images/icon4.png
+
+
+images = [
+    "https://d2g9wbak88g7ch.cloudfront.net/bannerimages/70_inr.jpg",
+    "https://d2g9wbak88g7ch.cloudfront.net/bannerimages/73_inr.jpg",
+    "https://d2g9wbak88g7ch.cloudfront.net/bannerimages/73_inr.jpg",
+    "https://d2g9wbak88g7ch.cloudfront.net/bannerimages/73_inr.jpg",
+    "https://d2g9wbak88g7ch.cloudfront.net/bannerimages/73_inr.jpg"
+]
+
+
+
+books = [
+    'https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/266/9789387779266.jpg',
+    
+]

@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  margin:0;
+  padding: 0;
+}
+
+.slick-slide img {
+  margin: auto;
+}
+
+.parent {
+  background-color: rgba(0,0,0,0.8);
+}
+
+.child {
+  /* background-color: rgba(249, 240, 240, 1); */
+}
